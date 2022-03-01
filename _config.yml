@@ -8,7 +8,7 @@
 theme_version: 1.0.5
 
 # Site settings
-title:              New blog
+title:              The Modern Hypatia
 logo:               # Logo image URL
 description:        Thoughts, stories and ideas on all things science
 baseurl:            '' # The subpath of your site, e.g. /blog
@@ -40,6 +40,33 @@ tag_page_dir:         tag
 tag_page_layout:      tag_page
 tag_permalink_style:  pretty
 
+# Authors
+authors:
+  xenia:
+    name:     Xènia Pérez Sitjà
+    bio:      
+    gravatar: https://s.gravatar.com/avatar/7e8f05d96f87d0a80066a2590425688a
+    email:    
+    website:  
+    github:   https://github.com/sitjart
+    twitter:  https://twitter.com/PerezSitja
+    linkedin: https://www.linkedin.com/in/xeniaps/
+  bela:
+    name:     Bela Sibuet Ruiz
+    bio:      
+    gravatar: https://s.gravatar.com/avatar/f83141edd9e6339e678648596a403fd5?s=150
+    email:    info@aspirethemes.com
+    website:  http://aspirethemes.com
+    github:   https://github.com/aspirethemes
+    twitter:  https://twitter.com/aspirethemes
+  alicia:
+    name:     Alicia Molinero Pérez
+    bio:      
+    gravatar: https://s.gravatar.com/avatar/f83141edd9e6339e678648596a403fd5?s=150
+    email:    info@aspirethemes.com
+    website:  http://aspirethemes.com
+    github:   https://github.com/aspirethemes
+    twitter:  https://twitter.com/aspirethemes
 
 # Pages path
 defaults:
@@ -47,29 +74,20 @@ defaults:
       path: '_pages'
     values:
       permalink: /:basename:output_ext
-
-# Authors
-authors:
-  ali:
-    name:     Alicia Molinero Perez
-    bio:      bio here
-    gravatar: https://s.gravatar.com/avatar/f83141edd9e6339e678648596a403fd5?s=150
-    linkedin: 
-    instagram: 
-    twitter:  
-  bela:
-    name:     Bela Sibuet Ruiz
-    bio:      bio here
-    gravatar: https://s.gravatar.com/avatar/f83141edd9e6339e678648596a403fd5?s=150
-    linkedin: 
-    instagram: 
-    twitter:  
-  xenia:
-    name:     Xenia Perez Sitja
-    bio:      bio here
-    gravatar: https://s.gravatar.com/avatar/f83141edd9e6339e678648596a403fd5?s=150
-    linkedin: https://www.linkedin.com/in/xeniaps/
-    github:   https://github.com/sitjart
-    twitter:  https://twitter.com/PerezSitja
-  
+  - scope:
+      path: 'collection/_authors'
+      type: authors
+    values:
+      permalink: "/authors/:title/"
+      layout: author
+      linkedin: 
+  - scope:
+      path: '_posts'
+      type: posts
+    values:
+      permalink: "/:title/"
+      layout: post
+      author: 
+      tags:
+      image:
 
