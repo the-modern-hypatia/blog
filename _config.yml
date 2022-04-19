@@ -10,8 +10,8 @@
 title:              The Modern Hypatia
 logo:               # Logo image URL
 description:        Thoughts, Stories and Ideas on Science for Women
-baseurl:            'blog' # The subpath of your site, e.g. /blog
-url:                'https://scicomm-blog.github.io/website/' # The base hostname & protocol for your site
+baseurl:            '/website' # The subpath of your site, e.g. /blog
+url:                'https://scicomm-blog.github.io' # The base hostname & protocol for your site
 twitter:            
 facebook:           
 instagram:          
@@ -43,6 +43,8 @@ tag_permalink_style:  pretty
 defaults:
   - scope:
       path: '_pages'
+    values:
+      permalink: /website/:basename:output_ext
 
 # Authors
 authors:
