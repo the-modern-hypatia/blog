@@ -2,21 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Modern Hypatia</title>
-    <description>Thoughts, stories and ideas on all things science</description>
+    <description>Thoughts, Stories and Ideas on Science for Women</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 11 Apr 2022 20:18:07 +0100</pubDate>
-    <lastBuildDate>Mon, 11 Apr 2022 20:18:07 +0100</lastBuildDate>
-    <generator>Jekyll v3.9.0</generator>
+    <pubDate>Tue, 19 Apr 2022 18:33:02 +0100</pubDate>
+    <lastBuildDate>Tue, 19 Apr 2022 18:33:02 +0100</lastBuildDate>
+    <generator>Jekyll v3.9.2</generator>
 
     
       <item>
-        <title>My first blog page</title>
-        <description>&lt;p&gt;This is just a test&lt;/p&gt;
+        <title>You got to cool that off. And that&apos;s the double-truth</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, vix ut case porro facilisis, alia possit neglegentur vis te. Has cu eirmod abhorreant, vel civibus efficiantur cu. Eu summo elitr vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.&lt;/p&gt;
+
+&lt;p&gt;Vix dico eius nominati cu, ex zril commodo fuisset mea. Habeo adhuc audiam ius no. In quis virtute officiis has. Vix ad honestatis accommodare, quis virtute et sit, pertinax expetenda eam id. Duo an fuisset delectus dissentias, justo altera ea per.&lt;/p&gt;
+
+&lt;h5 id=&quot;todo&quot;&gt;Todo&lt;/h5&gt;
+
+&lt;p&gt;Duis id ante elit. Aliquam quis tellus id orci eleifend finibus. Donec consequat justo ligula, eget sodales purus hendrerit at.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Ut at interdum nunc. Maecenas commodo turpis quis elementum gravida.&lt;/li&gt;
+  &lt;li&gt;Nunc ac sapien tellus. Quisque risus enim, tempus eget porttitor in, pellentesque vel urna.
+ Donec nibh massa, rutrum a sollicitudin eu,
+lacinia in lorem.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h5 id=&quot;graphic-design&quot;&gt;Graphic design&lt;/h5&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Graphic design is the paradise of individuality, eccentricity, heresy, abnormality, hobbies, and humors. — George Santayana&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Vim te case nihil oblique, has partem interpretaris ne, ad admodum accusamus nam. Usu utinam dissentias referrentur ne, vim accusam voluptua pertinacia no. Est no posse utinam inermis, brute errem mentitum et ius, te prompta albucius quo. In pro simul soleat regione.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/22.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ne reque offendit singulis mea, ad eos ferri doming nostrud. Duis suscipit usu ut, fuisset pericula ex est, et porro prompta his. Audire definiebas voluptatibus et duo, aperiam ocurreret ad nec. Vel ad nostrud principes. Ad liber congue iracundia sed, eirmod erroribus eam te, has veniam epicurei ea.&lt;/p&gt;
+
+&lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
-        <pubDate>27 Feb 2022</pubDate>
-        <link>http://localhost:4000/my-first-blog-page/</link>
-        <guid isPermaLink="true">http://localhost:4000/my-first-blog-page/</guid>
+        <pubDate>22 Jan 2017</pubDate>
+        <link>http://localhost:4000/2017/01/22/you-got-to-cool-that-shit-off-and-thats-the-double-truth/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/01/22/you-got-to-cool-that-shit-off-and-thats-the-double-truth/</guid>
       </item>
     
 
@@ -29,7 +56,12 @@
         
           <item>
             <title>About</title>
-            <description></description>
+            <description>&lt;p&gt;You love minimalism, want to be productive focusing only on the important things and want to take jekyll to the next level, Nubia is designed for you. Nubia focus on showing your content in a clean and simple way, focus on images, typography, and white space.&lt;/p&gt;
+
+&lt;p&gt;This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;jekyllrb.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, vix ut case porro facilisis, alia possit neglegentur vis te. Has cu eirmod abhorreant, vel civibus efficiantur cu. Eu summo elitr vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.&lt;/p&gt;
+</description>
             <link>http://localhost:4000/about.html</link>
           </item>
         
@@ -42,33 +74,249 @@
       
         
           <item>
-            <title>Topics</title>
-            <description>  &lt;div class=&quot;o-grid&quot;&gt;
-        &lt;div class=&quot;o-grid__col o-grid__col--initial-grow o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l&quot;&gt;
-            &lt;div class=&quot;c-tag-card &quot;&gt;
-                &lt;a href=&quot;/tag/science-communication/&quot; class=&quot;c-tag-card__image lazyloaded&quot; style=&quot;background-image: url(https://images.unsplash.com/photo-1531219432768-9f540ce91ef3?ixlib=rb-0.3.5&amp;amp;q=80&amp;amp;fm=jpg&amp;amp;crop=entropy&amp;amp;cs=tinysrgb&amp;amp;w=1080&amp;amp;fit=max&amp;amp;ixid=eyJhcHBfaWQiOjExNzczfQ&amp;amp;s=69d478faabf41844e1d443cf6839e600)&quot;&gt;
-                    &lt;h2 class=&quot;c-tag-card__title&quot;&gt;Science Communication &lt;span class=&quot;u-font-size-tiny&quot;&gt;(18)&lt;/span&gt;&lt;/h2&gt;
-                &lt;/a&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;     
-        &lt;div class=&quot;o-grid__col o-grid__col--initial-grow o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l&quot;&gt;
-             &lt;div class=&quot;c-tag-card&quot;&gt;
-                &lt;a href=&quot;/tag/science-policy/&quot; class=&quot;c-tag-card__image lazyloaded&quot; style=&quot;background-image: url(https://images.unsplash.com/photo-1533525801715-1f3764669187?ixlib=rb-0.3.5&amp;amp;q=80&amp;amp;fm=jpg&amp;amp;crop=entropy&amp;amp;cs=tinysrgb&amp;amp;w=1080&amp;amp;fit=max&amp;amp;ixid=eyJhcHBfaWQiOjExNzczfQ&amp;amp;s=22055d77fb0758d7c065bdd2a44c30b2)&quot;&gt;
-                    &lt;h2 class=&quot;c-tag-card__title&quot;&gt;Science Policy&lt;/h2&gt;
-                &lt;/a&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;o-grid__col o-grid__col--initial-grow o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l&quot;&gt;
-            &lt;div class=&quot;c-tag-card&quot;&gt;
-                &lt;a href=&quot;/tag/science-careers/&quot; class=&quot;c-tag-card__image lazyloaded&quot; style=&quot;background-image: url(https://images.unsplash.com/photo-1504712598893-24159a89200e?ixlib=rb-0.3.5&amp;amp;q=80&amp;amp;fm=jpg&amp;amp;crop=entropy&amp;amp;cs=tinysrgb&amp;amp;w=1080&amp;amp;fit=max&amp;amp;ixid=eyJhcHBfaWQiOjExNzczfQ&amp;amp;s=3a113db6876d9b54864dfb98150ce443)&quot;&gt;
-                    &lt;h2 class=&quot;c-tag-card__title&quot;&gt;Science Careers&lt;/h2&gt;
-                &lt;/a&gt;
-            &lt;/div&gt;
-        &lt;/div&gt; 
-    &lt;/div&gt;</description>
-            <link>http://localhost:4000/topics.html</link>
+            <title>Style Guide</title>
+            <description>At [Aspire Themes](http://aspirethemes.com/) I use a lot of tools to help me create WordPress, Ghost and Jekyll themes. Tools will range from development, design, services, hosting and automation.
+
+Graphic design is the paradise of **individuality**, *eccentricity*, heresy, abnormality, hobbies, and humors. — George Santayana.
+
+---
+
+# Simple default styles for headings
+
+## Simple default styles for headings
+
+### Simple default styles for headings
+
+#### Simple default styles for headings
+
+##### Simple default styles for headings
+
+###### Simple default styles for headings
+
+---
+
+* Ut at interdum nunc. Maecenas commodo turpis quis elementum gravida.
+* Nunc ac sapien tellus. Quisque risus enim, tempus eget porttitor.
+* Donec nibh massa, rutrum a sollicitudin eu, lacinia in lorem.
+
+---
+
+1. Ut at interdum nunc. Maecenas commodo turpis quis elementum gravida.
+2. Nunc ac sapien tellus. Quisque risus enim, tempus eget porttitor in.
+3. Donec nibh massa, rutrum a sollicitudin eu.
+
+---
+
+&gt; Graphic design is the paradise of individuality, eccentricity, heresy, abnormality, hobbies, and humors. — George Santayana
+
+---
+
+&lt;p&gt;You can use the mark tag to &lt;mark&gt;highlight&lt;/mark&gt; text.&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;This line of text is meant to be treated as deleted text.&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;This line of text will render as underlined&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;This line of text is meant to be treated as fine print.&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This line rendered as bold text.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This line rendered as italicized text.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;abbr title=&quot;attribute&quot;&gt;attr&lt;/abbr&gt;&lt;/p&gt;
+&lt;p&gt;&lt;abbr title=&quot;HyperText Markup Language&quot; class=&quot;initialism&quot;&gt;HTML&lt;/abbr&gt;&lt;/p&gt;
+
+---
+
+### Responsive Tables
+
+&lt;div class=&apos;responsive-table&apos;&gt;
+&lt;table&gt;
+      &lt;thead&gt;
+        &lt;tr&gt;
+          &lt;th scope=&quot;col&quot;&gt;#&lt;/th&gt;
+          &lt;th scope=&quot;col&quot;&gt;Heading&lt;/th&gt;
+          &lt;th scope=&quot;col&quot;&gt;Heading&lt;/th&gt;
+          &lt;th scope=&quot;col&quot;&gt;Heading&lt;/th&gt;
+          &lt;th scope=&quot;col&quot;&gt;Heading&lt;/th&gt;
+          &lt;th scope=&quot;col&quot;&gt;Heading&lt;/th&gt;
+          &lt;th scope=&quot;col&quot;&gt;Heading&lt;/th&gt;
+          &lt;th scope=&quot;col&quot;&gt;Heading&lt;/th&gt;
+          &lt;th scope=&quot;col&quot;&gt;Heading&lt;/th&gt;
+          &lt;th scope=&quot;col&quot;&gt;Heading&lt;/th&gt;
+        &lt;/tr&gt;
+      &lt;/thead&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;th scope=&quot;row&quot;&gt;1&lt;/th&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;th scope=&quot;row&quot;&gt;2&lt;/th&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;th scope=&quot;row&quot;&gt;3&lt;/th&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+&lt;/div&gt;
+
+---
+
+### YouTube Responsive Embed
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/nuwjUZCSB2Y?rel=0&amp;amp;controls=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+---
+
+### Vimeo Responsive Embed
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/212114694?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+---
+
+### TED Responsive Embed
+
+&lt;iframe src=&quot;https://embed.ted.com/talks/ted_halstead_a_climate_solution_where_all_sides_can_win&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+---
+
+### Twitch Responsive Embed
+
+&lt;iframe src=&quot;https://player.twitch.tv/?autoplay=false&amp;video=v248755437&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot; scrolling=&quot;no&quot; height=&quot;378&quot; width=&quot;620&quot;&gt;&lt;/iframe&gt;
+
+---
+
+### SoundCloud Embed
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/29738591&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;
+
+---
+
+### CodePen Embed
+
+&lt;p data-height=&quot;265&quot; data-theme-id=&quot;light&quot; data-slug-hash=&quot;YWvpRo&quot; data-default-tab=&quot;css,result&quot; data-user=&quot;kharrop&quot; data-embed-version=&quot;2&quot; data-pen-title=&quot;Referral Form&quot; class=&quot;codepen&quot;&gt;&lt;/p&gt;
+&lt;script async src=&quot;https://production-assets.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;
+
+---
+
+### Instagram Embed
+
+  &lt;blockquote class=&quot;instagram-media&quot; data-instgrm-permalink=&quot;https://www.instagram.com/p/BhFTg6uhNRi/&quot; data-instgrm-version=&quot;8&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:8px;&quot;&gt; &lt;div style=&quot; background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;&quot;&gt; &lt;div style=&quot; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;&lt;a href=&quot;https://www.instagram.com/p/BhFTg6uhNRi/&quot; style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;&quot; target=&quot;_blank&quot;&gt;A post shared by Ahmad Ajmi (@ahmadajme)&lt;/a&gt; on &lt;time style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&quot; datetime=&quot;2018-04-02T21:18:58+00:00&quot;&gt;Apr 2, 2018 at 2:18pm PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt; &lt;script async defer src=&quot;//www.instagram.com/embed.js&quot;&gt;&lt;/script&gt;
+
+---
+
+### Twitter Embed
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Very excited to release Nubia, a new Responsive &amp;amp; Multipurpose Ghost Theme 🚀🚀&lt;a href=&quot;https://t.co/LATsykOLDJ&quot;&gt;https://t.co/LATsykOLDJ&lt;/a&gt; &lt;a href=&quot;https://t.co/zG2PFVwe7G&quot;&gt;pic.twitter.com/zG2PFVwe7G&lt;/a&gt;&lt;/p&gt;&amp;mdash; Aspire Themes (@aspirethemes) &lt;a href=&quot;https://twitter.com/aspirethemes/status/944865769300660225?ref_src=twsrc%5Etfw&quot;&gt;December 24, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+---
+
+### Responsive &amp; Medium Style Image Zoom
+
+Click the image to zoom it :)
+
+![styleguide](/images/posts/22.jpg)
+
+---
+
+### Syntax Highlighting
+
+{% highlight js %}
+&apos;use strict&apos;;
+var markdown = require(&apos;markdown&apos;).markdown;
+function Editor(input, preview) {
+  this.update = function() {
+    preview.innerHTML = markdown.toHTML(input.value);
+  };
+  input.editor = this;
+  this.update();
+}
+{% endhighlight %}
+
+You can add inline code just like this, E.g. `.code { color: #fff; }`
+
+{% highlight css %}
+pre {
+  background-color: #f4f4f4;
+  max-width: 100%;
+  overflow: auto;
+}
+{% endhighlight %}
+
+---
+
+### GitHub gist Embed
+
+&lt;script src=&quot;https://gist.github.com/ahmadajmi/dbb4f713317721668bcbc39420562afc.js&quot;&gt;&lt;/script&gt;
+
+---
+
+### Input Style
+
+&lt;input type=&quot;text&quot; placeholder=&quot;I&apos;m an input field!&quot;&gt;
+
+---
+
+### Buttons Style
+
+&lt;button class=&apos;c-btn c-btn--small&apos;&gt;Button&lt;/button&gt;
+
+&lt;button class=&apos;c-btn&apos;&gt;Button&lt;/button&gt;
+
+&lt;button class=&apos;c-btn c-btn--full&apos;&gt;Button&lt;/button&gt;
+
+---
+
+{% highlight html %}
+&lt;button class=&apos;c-btn&apos;&gt;Button&lt;/button&gt;
+&lt;button class=&apos;c-btn c-btn--small&apos;&gt;Button&lt;/button&gt;
+&lt;button class=&apos;c-btn c-btn--full&apos;&gt;Button&lt;/button&gt;
+{% endhighlight %}
+
+---
+
+&lt;button class=&apos;c-btn c-btn--active c-btn--small&apos;&gt;Button&lt;/button&gt;
+
+&lt;button class=&apos;c-btn c-btn--active&apos;&gt;Button&lt;/button&gt;
+
+&lt;button class=&apos;c-btn c-btn--active c-btn--full&apos;&gt;Button&lt;/button&gt;
+
+---
+
+{% highlight html %}
+&lt;button class=&apos;c-btn c-btn--active&apos;&gt;Button&lt;/button&gt;
+&lt;button class=&apos;c-btn c-btn--active c-btn--small&apos;&gt;Button&lt;/button&gt;
+&lt;button class=&apos;c-btn c-btn--active c-btn--full&apos;&gt;Button&lt;/button&gt;
+{% endhighlight %}</description>
+            <link>http://localhost:4000/style-guide.html</link>
           </item>
         
+      
+    
+      
+    
       
     
       

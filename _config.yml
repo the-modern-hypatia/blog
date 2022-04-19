@@ -10,8 +10,8 @@ theme_version: 1.0.5
 # Site settings
 title:              The Modern Hypatia
 logo:               # Logo image URL
-description:        Thoughts, stories and ideas on all things science
-baseurl:            ''
+description:        Thoughts, Stories and Ideas on Science for Women
+baseurl:            '' # The subpath of your site, e.g. /blog
 url:                'https://scicomm-blog.github.io/website/' # The base hostname & protocol for your site
 twitter:            
 facebook:           
@@ -20,8 +20,6 @@ instagram:
 markdown:  kramdown
 permalink: pretty
 paginate:  11
-
-
 sass:
   style: compressed
 
@@ -42,54 +40,20 @@ tag_page_dir:         tag
 tag_page_layout:      tag_page
 tag_permalink_style:  pretty
 
-# Authors
-authors:
-  xenia:
-    name:     Xènia Pérez Sitjà
-    bio:      
-    gravatar: 
-    email:    
-    website:  
-    github:   https://github.com/sitjart
-    twitter:  https://twitter.com/PerezSitja
-    linkedin: https://www.linkedin.com/in/xeniaps/
-  bela:
-    name:     Bela Sibuet Ruiz
-    bio:      
-    gravatar: 
-    email:    
-    website:  
-    github:   
-    twitter:  
-  alicia:
-    name:     Alicia Molinero Pérez
-    bio:      
-    gravatar: 
-    email:    
-    website:  
-    github:   
-    twitter:  
-
 # Pages path
 defaults:
   - scope:
       path: '_pages'
     values:
       permalink: /:basename:output_ext
-  - scope:
-      path: 'collection/_authors'
-      type: authors
-    values:
-      permalink: "/authors/:title/"
-      layout: author
-      linkedin: 
-  - scope:
-      path: '_posts'
-      type: posts
-    values:
-      permalink: "/:title/"
-      layout: post
-      author: 
-      tags:
-      image:
 
+# Authors
+authors:
+  ahmad:
+    name:     Xènia Pérez Sitjà
+    bio:      
+    gravatar: 
+    email:    
+    website: 
+    github:   
+    twitter:  
