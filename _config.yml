@@ -5,13 +5,12 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
-theme_version: 1.0.5
 
 # Site settings
 title:              The Modern Hypatia
 logo:               # Logo image URL
 description:        Thoughts, Stories and Ideas on Science for Women
-baseurl:            '' # The subpath of your site, e.g. /blog
+baseurl:            'blog' # The subpath of your site, e.g. /blog
 url:                'https://scicomm-blog.github.io/website/' # The base hostname & protocol for your site
 twitter:            
 facebook:           
@@ -26,12 +25,12 @@ sass:
 plugins:
   - jekyll-paginate
   - jekyll/tagging
+  - github-pages
 
 include:
   - _pages
 
 exclude:
-  - vendor
   - Gemfile
   - Gemfile.lock
 
@@ -44,8 +43,6 @@ tag_permalink_style:  pretty
 defaults:
   - scope:
       path: '_pages'
-    values:
-      permalink: /:basename:output_ext
 
 # Authors
 authors:
