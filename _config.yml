@@ -48,11 +48,20 @@ defaults:
 
 # Authors
 authors:
-  ahmad:
+  xenia:
     name:     Xènia Pérez Sitjà
     bio:      
     gravatar: 
     email:    
     website: 
     github:   
-    twitter:  
+    twitter:
+  alicia:
+    name: Alicia Molinero Pérez
+    bio: 
+    gravatar:
+    email:
+    website:
+    github:
+    twitter:
+    
