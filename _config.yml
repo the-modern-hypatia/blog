@@ -44,7 +44,7 @@ defaults:
   - scope:
       path: '_pages'
     values:
-      permalink: /website/:basename:output_ext
+      permalink: blog/:basename:output_ext
 
 # Authors
 authors:
