@@ -11,6 +11,10 @@ Do you have a topic you want to write about? Contact us to become an author of T
 
 Or perhaps you have a topic you'd like us to cover. In any case, submit your GitHub ticket and we'll respond to your query as soon as possible.
 
-## License 
+## Licenses 
 
+### Blog content license
+The work of this blog is licensed under the [Creative Commons Attribution-NoDerivatives 4.0 International] (https://creativecommons.org/licenses/by-nd/4.0/legalcode)
+
+### Jekyll theme license
 The theme used in this website is licensed only for this project and cannot be reused for any other purpose. See license file for more information. 
