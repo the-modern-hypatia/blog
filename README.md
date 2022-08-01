@@ -14,7 +14,7 @@ Or perhaps you have a topic you'd like us to cover. In any case, submit your Git
 ## Licenses 
 
 ### Blog content license
-The work of this blog is licensed under the [Creative Commons Attribution-NoDerivatives 4.0 International] (https://creativecommons.org/licenses/by-nd/4.0/legalcode)
+The work of this blog is licensed under the [Creative Commons Attribution-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nd/4.0/legalcode)
 
 ### Jekyll theme license
 The theme used in this website is licensed only for this project and cannot be reused for any other purpose. See license file for more information. 
