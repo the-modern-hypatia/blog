@@ -3,47 +3,51 @@
   <channel>
     <title>The Modern Hypatia</title>
     <description>Thoughts, Stories and Ideas on Science for Women</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 19 Apr 2022 19:34:30 +0100</pubDate>
-    <lastBuildDate>Tue, 19 Apr 2022 19:34:30 +0100</lastBuildDate>
+    <link>http://localhost:4000/blog/</link>
+    <atom:link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 01 Aug 2022 18:02:41 +0100</pubDate>
+    <lastBuildDate>Mon, 01 Aug 2022 18:02:41 +0100</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
 
     
       <item>
-        <title>You got to cool that off. And that&apos;s the double-truth</title>
-        <description>&lt;p&gt;Lorem ipsum dolor sit amet, vix ut case porro facilisis, alia possit neglegentur vis te. Has cu eirmod abhorreant, vel civibus efficiantur cu. Eu summo elitr vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.&lt;/p&gt;
+        <title>The strange case of women in clinical trials</title>
+        <description>&lt;p&gt;Hi there!&lt;/p&gt;
 
-&lt;p&gt;Vix dico eius nominati cu, ex zril commodo fuisset mea. Habeo adhuc audiam ius no. In quis virtute officiis has. Vix ad honestatis accommodare, quis virtute et sit, pertinax expetenda eam id. Duo an fuisset delectus dissentias, justo altera ea per.&lt;/p&gt;
+&lt;p&gt;We can all agree that beginnings are challenging. And, considering how the scientific community and science itself have engaged with the existence of women until now, it can be tough to choose how or even where to start. So, after deep consideration and, who am I kidding, a lot of scrolling, I have decided to introduce myself with a piece that, I hope, will illustrate the grandiosity of this issue – &lt;strong&gt;the inclusion of women in the testing of drugs.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h5 id=&quot;todo&quot;&gt;Todo&lt;/h5&gt;
+&lt;p&gt;To reach the market, medicinal products must undergo a series of tests to prove they do what they are supposed to (that is, their level of &lt;strong&gt;efficacy&lt;/strong&gt;), while causing no harm to whoever takes them (meaning their &lt;strong&gt;safety&lt;/strong&gt;). Before these products are tested on people, clinical trials are the last step in this terrible minefield, that is putting a drug on the market, when finally, these products are tested on people. Thanks to this pipeline, we should be able to take any treatment with the confidence that they are as effective and safe as their manufacturer assures them to be– but can we really?&lt;/p&gt;
 
-&lt;p&gt;Duis id ante elit. Aliquam quis tellus id orci eleifend finibus. Donec consequat justo ligula, eget sodales purus hendrerit at.&lt;/p&gt;
+&lt;p&gt;In 1977, the &lt;strong&gt;US Food and Drug Administration&lt;/strong&gt; (FDA), the leading organisation for promoting and protecting public health throughout the western world, published a guideline titled ‘General Considerations for the Clinical Evaluation of Drugs’. This document recommended pharmaceutical companies &lt;strong&gt;to exclude women of childbearing age from participating in the first phases of clinical trials&lt;/strong&gt;. With this mandate, their goal was clear: to protect potential unborn children from side effects.&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;Ut at interdum nunc. Maecenas commodo turpis quis elementum gravida.&lt;/li&gt;
-  &lt;li&gt;Nunc ac sapien tellus. Quisque risus enim, tempus eget porttitor in, pellentesque vel urna.
- Donec nibh massa, rutrum a sollicitudin eu,
-lacinia in lorem.&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;Clinical trials are divided into diverse phases. The difference between these phases are parameters such as, the number of people tested or the objective of such testing. It is precisely in these early phases that safety is the primary check. Hence, ultimately, FDA’s early recommendation meant that treatments that would end up being consumed by females could potentially loophole their way into the market with close to no information about their safety in women. To give you an example: everyone has heard of Prozac, right? Prozac (Fluoxetine), probably the most widely known antidepressant, reached the market in 1988. At that time, the 1977 FDA guideline was still the go-to bible for any pharmaceutical company designing a clinical trial. Which begs the question: &lt;strong&gt;how many women had even tried this so popular drug before it could be prescribed to them?&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h5 id=&quot;graphic-design&quot;&gt;Graphic design&lt;/h5&gt;
+&lt;p&gt;Let’s flash forward a little bit: the year is 1993, the first Jurassic Park is showing in theatres, Whitney Houston is rocking the charts with her song ‘I Will Always Love You’ and, somewhere in Europe, the CERN is about to make the protocol and code for a little something called the World Wide Web available to the world. This year will also mark the official ‘entrance’ of female subjects into clinical trial territory when the FDA decides to update their last recommendation. The new title said it all: ‘Guideline for the Study and Evaluation of Gender Differences in the Clinical Evaluation of Drugs’. From there on, the initial concern related to unborn children was and is easily fixed by including pregnancy tests as routine throughout the length of a clinical trial and encouraging either abstinence or the use of contraceptives among subjects.&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;Graphic design is the paradise of individuality, eccentricity, heresy, abnormality, hobbies, and humors. — George Santayana&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Other similar documents saw the light around the same period and stressed the importance of other factors like age or ethnicity. This meant that someone had finally decided to acknowledge something which today is common knowledge in the medical world: &lt;strong&gt;when treating a disease, different people might need different doses of the same drug, or even a different approach altogether.&lt;/strong&gt; Since each individual comes from a particular socio-economic background and showcases differences in plenty of physiological parameters (body size, hormonal cycles, hepatic or renal function, enzyme activity, to name a few), it is crucial to have available clinical data that takes into account these parameters before a product can be manufactured.&lt;/p&gt;
 
-&lt;p&gt;Vim te case nihil oblique, has partem interpretaris ne, ad admodum accusamus nam. Usu utinam dissentias referrentur ne, vim accusam voluptua pertinacia no. Est no posse utinam inermis, brute errem mentitum et ius, te prompta albucius quo. In pro simul soleat regione.&lt;/p&gt;
+&lt;p&gt;Following the North American lead, in 2005, the European Medicines Agency (EMA) released a summary entitled ‘ICH - Gender considerations in the conduct of clinical trials’ which recapitulated all existing guidelines and stressed this undeniable gender issue. And finally, in April 2014, Europe adopted a new legislation altogether, Regulation (EU) No 536/2014, which directly contains a list of specific populations that need to be included in a clinical trial for a drug to reach the European market. Moreover, in a fascinating turn of events, takes steps towards the inclusion and protection of pregnant and breastfeeding women in clinical trials, when appropriate. I know it sounds wild to test drugs using someone carrying a baby. Still, it is imperative to do so, as mothers with chronic conditions like asthma, diabetes or HIV/AIDS cannot be deprived of their medication during gestation.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/posts/22.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;It is a long journey we have covered together in just a few paragraphs, but isn’t it just absurd if you think about it? Women have experienced centuries and centuries of discrimination due to being ‘different’. We are constantly called ‘the weaker sex’ and have been treated as inferior or dependant for ages. I am not even being dramatic here! Girls over the legal age could not open a bank account on their own until as late as 1974 in the U.S. and 1975 in the UK or Spain. Goddamit, they usually can’t even do it right now in Saudi Arabia without the permission of a male guardian. Funnily enough, when it came down to our physiology, the only difference between men and women was assumed to be our ‘sexual and reproductive organs’ and the results obtained from men ‘could simply be extrapolated to women’. Which is a bogus assumption with ever-lasting effects.&lt;/p&gt;
 
-&lt;p&gt;Ne reque offendit singulis mea, ad eos ferri doming nostrud. Duis suscipit usu ut, fuisset pericula ex est, et porro prompta his. Audire definiebas voluptatibus et duo, aperiam ocurreret ad nec. Vel ad nostrud principes. Ad liber congue iracundia sed, eirmod erroribus eam te, has veniam epicurei ea.&lt;/p&gt;
+&lt;p&gt;As I already said, it’s been a long journey, but sadly, there is still a long way to go. Even though now we know that some treatments have a distinct effect depending on gender, we don’t know for &lt;strong&gt;how many&lt;/strong&gt; treatments that’s the case or, even if identified, &lt;strong&gt;how&lt;/strong&gt; this difference applies. On top of that, it is important to stress that both documents published in 1993 and 2005 are &lt;strong&gt;guidelines, not rules&lt;/strong&gt;. Therefore, their contents are mere suggestions. We still need to catch up with decades of lost data. And even if the new European regulations date from 2014, they only came into effect by October 2018. So, it will still take time until we can fully see its effects.&lt;/p&gt;
 
-&lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
+&lt;p&gt;I feel that the ultimate goal of this post is not to tella story, but to make you doubt. I want to prompt you to ask yourself questions about all those drugs you have been prescribed; the ones you can see behind the counter of pharmacies or even those you already have at home. I want your brain to be filled with interrogations. And hopefully, you can find the answer here to some of those.&lt;/p&gt;
+
+&lt;h1 id=&quot;bibliography&quot;&gt;Bibliography&lt;/h1&gt;
+&lt;p&gt;Food and Drug Administration. General considerations for the clinical evaluation of drugs (1977) &lt;a href=&quot;https://babel.hathitrust.org/cgi/pt?id=umn.31951003051226s&amp;amp;view=1up&amp;amp;seq=1&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Food and Drug Administration. Guideline for the study and evaluation of gender differences in clinical investigations (1993) &lt;a href=&quot;https://www.fda.gov/regulatory-information/search-fda-guidance-documents/study-and-evaluation-gender-differences-clinical-evaluation-drugs&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;European Medicines Agency. ICH - Gender considerations in the conduct of clinical trial. London: European Medicines Agency. (2005) &lt;a href=&quot;https://www.ema.europa.eu/en/documents/scientific-guideline/ich-gender-considerations-conduct-clinical-trials-step-5_en.pdf&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Regulation (EU) No 536/2014 of the European Parliament and of the Council of 16 April 2014 on clinical trials on medicinal products for human use, and repealing Directive 2001/20/EC. (2014) &lt;a href=&quot;https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32014R0536&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Health Canada: Considerations for inclusion of women in clinical trials and analysis of data by sex. (2013). &lt;a href=&quot;https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/clinical-trials/considerations-inclusion-women-clinical-trials-analysis-data-sex-differences.html&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>22 Jan 2017</pubDate>
-        <link>http://localhost:4000/2017/01/22/you-got-to-cool-that-shit-off-and-thats-the-double-truth/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/01/22/you-got-to-cool-that-shit-off-and-thats-the-double-truth/</guid>
+        <pubDate>27 Jul 2022</pubDate>
+        <link>http://localhost:4000/blog/2022/07/27/women-in-clinical-trials/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2022/07/27/women-in-clinical-trials/</guid>
       </item>
     
 
@@ -56,13 +60,35 @@ lacinia in lorem.&lt;/li&gt;
         
           <item>
             <title>About</title>
-            <description>&lt;p&gt;You love minimalism, want to be productive focusing only on the important things and want to take jekyll to the next level, Nubia is designed for you. Nubia focus on showing your content in a clean and simple way, focus on images, typography, and white space.&lt;/p&gt;
+            <description>&lt;p&gt;We are The Modern Hypatia, three unorthodox biomedical scientists with three very different stories to tell on the journey beyond academia.
+Even if we have chosen very different paths, there is something we still have in common: we are women in STEM.&lt;/p&gt;
 
-&lt;p&gt;This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;jekyllrb.com&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;a-bit-of-context&quot;&gt;A bit of context&lt;/h1&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, vix ut case porro facilisis, alia possit neglegentur vis te. Has cu eirmod abhorreant, vel civibus efficiantur cu. Eu summo elitr vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;The number of women in the STEM (science, technology, engineering and medicine) fields does not reach 30%.
+&lt;em&gt;UNESCO Institute for Statistics (2019)&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Female researchers publish less, are paid less and are bound to precarious contracts more often than their male counterparts. [Gender bias] (https://dictionary.apa.org/gender-bias) is bound to affect women in every working environment – science is not an exemption.&lt;/p&gt;
+
+&lt;p&gt;If the previous data did not come as a surprise, this may: research results themselves are affected by gender bias. All-male study participants, male-focused interpretation, or poor attention to women’s health issues are only some examples.&lt;/p&gt;
+
+&lt;p&gt;How does gender bias affect evidence-based medicine? Does our society’s embedded sexism alter epidemiological findings? Are females constantly under or misdiagnosed due to diagnostic systems created to fit the male physiology?&lt;/p&gt;
+
+&lt;p&gt;And we’ve decided to pose some others ourselves: Is the gender bias present in research linked to the lack of women in STEM? Or is the lack of representation preventing young girls from choosing to pursue a career in research? Are both of those statements true? Are we trapped in an infinite loop that needs to be broken before we can even start scratching the glass ceiling?&lt;/p&gt;
+
+&lt;h1 id=&quot;why-hypatia--our-manifesto&quot;&gt;Why Hypatia – our manifesto&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Hypatia of Alexandria (c. 355) was one of a kind.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Philosopher, mathematician, astronomer and educator, she was the first woman to leave a perennial impression in the history of science.&lt;/p&gt;
+
+&lt;p&gt;We chose her name to remind us, women, that we are capable of greatness. We are The Modern Hypatia, and we are here to voice those who are already there, to help them illuminate the path of future generations of female researchers and show us how powerful we are when girded with knowledge.&lt;/p&gt;
+
+&lt;p&gt;We are here to shed some light on the void, to ensure that, even if there is still a big empty space where all the research about women’s health should be, this void will eventually be filled.&lt;/p&gt;
 </description>
-            <link>http://localhost:4000/about.html</link>
+            <link>http://localhost:4000/blog/about.html</link>
           </item>
         
       
@@ -310,9 +336,11 @@ pre {
 &lt;button class=&apos;c-btn c-btn--active c-btn--small&apos;&gt;Button&lt;/button&gt;
 &lt;button class=&apos;c-btn c-btn--active c-btn--full&apos;&gt;Button&lt;/button&gt;
 {% endhighlight %}</description>
-            <link>http://localhost:4000/style-guide.html</link>
+            <link>http://localhost:4000/blog/style-guide.html</link>
           </item>
         
+      
+    
       
     
       
