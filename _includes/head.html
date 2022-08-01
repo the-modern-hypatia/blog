@@ -23,4 +23,7 @@
         pagination_available_pages_number = '{{ paginator.total_pages }}';
   </script>
   {% seo %}
+  {% if site.tags != "" %}
+    {% include collecttags.html %}
+  {% endif %}
 </head>

@@ -3,7 +3,7 @@ layout: post
 title: The strange case of women in clinical trials
 featured: true
 author: alicia
-tags: [clinical trials, drug development, women]
+tags: [science about women]
 image: 'blog/images/posts/clinical_trials.jpg'
 ---
 Hi there!
