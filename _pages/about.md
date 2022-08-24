@@ -10,7 +10,7 @@ Even if we have chosen very different paths, there is something we still have in
 # A bit of context
 
 > The number of women in the STEM (science, technology, engineering and medicine) fields does not reach 30%.
-*UNESCO Institute for Statistics (2019)*
+> *UNESCO Institute for Statistics (2019)*
 
 Female researchers publish less, are paid less and are bound to precarious contracts more often than their male counterparts. [Gender bias](https://dictionary.apa.org/gender-bias) is bound to affect women in every working environment – science is not an exemption. 
 
