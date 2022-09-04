@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-image: false
 ---
 
 We are The Modern Hypatia, three unorthodox biomedical scientists with three very different stories to tell on the journey beyond academia.
