@@ -3,8 +3,8 @@ layout: post
 title: The strange case of women in clinical trials
 featured: true
 author: alicia
-tags: [science about women]
-image: 'blog/images/posts/clinical_trials.jpg'
+tags: ['science about women']
+image: '/images/posts/clinical_trials.jpg'
 ---
 Hi there!
 
@@ -29,12 +29,12 @@ As I already said, it’s been a long journey, but sadly, there is still a long 
 I feel that the ultimate goal of this post is not to tella story, but to make you doubt. I want to prompt you to ask yourself questions about all those drugs you have been prescribed; the ones you can see behind the counter of pharmacies or even those you already have at home. I want your brain to be filled with interrogations. And hopefully, you can find the answer here to some of those.
 
 # Bibliography
-Food and Drug Administration. General considerations for the clinical evaluation of drugs (1977) [Link](https://babel.hathitrust.org/cgi/pt?id=umn.31951003051226s&view=1up&seq=1)
+[Food and Drug Administration. General considerations for the clinical evaluation of drugs](https://babel.hathitrust.org/cgi/pt?id=umn.31951003051226s&view=1up&seq=1) (1977)
 
-Food and Drug Administration. Guideline for the study and evaluation of gender differences in clinical investigations (1993) [Link](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/study-and-evaluation-gender-differences-clinical-evaluation-drugs)
+[Food and Drug Administration. Guideline for the study and evaluation of gender differences in clinical investigations](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/study-and-evaluation-gender-differences-clinical-evaluation-drugs) (1993)
 
-European Medicines Agency. ICH - Gender considerations in the conduct of clinical trial. London: European Medicines Agency. (2005) [Link](https://www.ema.europa.eu/en/documents/scientific-guideline/ich-gender-considerations-conduct-clinical-trials-step-5_en.pdf)
+[European Medicines Agency. ICH - Gender considerations in the conduct of clinical trial. London: European Medicines Agency](https://www.ema.europa.eu/en/documents/scientific-guideline/ich-gender-considerations-conduct-clinical-trials-step-5_en.pdf) (2005)
 
-Regulation (EU) No 536/2014 of the European Parliament and of the Council of 16 April 2014 on clinical trials on medicinal products for human use, and repealing Directive 2001/20/EC. (2014) [Link](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32014R0536)
+[Regulation (EU) No 536/2014 of the European Parliament and of the Council of 16 April 2014 on clinical trials on medicinal products for human use, and repealing Directive](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32014R0536) 2001/20/EC (2014)
 
-Health Canada: Considerations for inclusion of women in clinical trials and analysis of data by sex. (2013). [Link](https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/clinical-trials/considerations-inclusion-women-clinical-trials-analysis-data-sex-differences.html)
+[Health Canada: Considerations for inclusion of women in clinical trials and analysis of data by sex](https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/clinical-trials/considerations-inclusion-women-clinical-trials-analysis-data-sex-differences.html) (2013)

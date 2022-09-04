@@ -12,13 +12,8 @@ layout: default
   </div>
 
   <div class='o-grid js-grid'>
-    <ul>
-      {% for post in site.tags[page.tag] %}
-      <li>
-      <a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})<br>
-        {{ post.description }}
-      </li>
-      {% endfor %}
-    </ul>
+    {% for post in page.posts %}
+      {% include post-card.html %}
+    {% endfor %}
   </div>
 </div>

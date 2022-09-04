@@ -2,11 +2,11 @@
   <div class='o-grid'>
 
     <div class='o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l'>
-      <p class='u-font-medium'>Tags</p>
+      <p class='u-font-medium'>Topics</p>
 
       <ul class='c-footer-list o-plain-list'>
         {% for tag in site.tags %}
-          <li><a href='{{ site.baseurl }}/tag/{{ tag[0] }}'>{{ tag[0] }}</a><li>
+          <li><a href='{{ site.baseurl }}/topic/{{ tag[0] | replace: " ","-" }}'>{{ tag[0] }}</a><li>
         {% endfor %}
       </ul>
     </div>
