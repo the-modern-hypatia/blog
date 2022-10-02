@@ -36,6 +36,7 @@ exclude:
   - _pages/style-guide.md
   - Gemfile
   - Gemfile.lock
+  - _pages/topics.md
 
 # Tags
 tag_page_dir:         topic

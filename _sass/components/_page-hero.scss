@@ -1,0 +1,22 @@
+/*------------------------------------*\
+  Components > Post Hero
+\*------------------------------------*/
+
+.c-page-hero {
+    &__title {
+      margin-bottom: 10;
+      font-family: $font-serif;
+      font-size: $font-size-h1;
+  
+      @include mq($from: tablet) {
+        font-size: $font-size-h1;
+      }
+  
+      @include mq($from: desktop) {
+        font-size: $font-size-h1;
+        text-align: center;
+        margin-top: auto;
+        padding-bottom: 20px;
+      }
+    }
+  }

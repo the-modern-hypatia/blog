@@ -4,14 +4,13 @@ title: About
 image: false
 ---
 
-We are The Modern Hypatia, three unorthodox biomedical scientists with three very different stories to tell on the journey beyond academia.
+We are **The Modern Hypatia**, three unorthodox biomedical scientists with three very different stories to tell on the journey beyond academia.
 Even if we have chosen very different paths, there is something we still have in common: we are women in STEM. 
 
-# A bit of context
+## A bit of context
 
-> The number of women in the STEM (science, technology, engineering and medicine) fields does not reach 30%.
-> 
-> *UNESCO Institute for Statistics (2019)*
+> The number of women in the STEM (science, technology, engineering and medicine) fields does not reach 30%.\
+>UNESCO Institute for Statistics (2019)
 
 Female researchers publish less, are paid less and are bound to precarious contracts more often than their male counterparts. [Gender bias](https://dictionary.apa.org/gender-bias) is bound to affect women in every working environment – science is not an exemption. 
 
@@ -21,7 +20,7 @@ How does gender bias affect evidence-based medicine? Does our society’s embedd
 
 And we’ve decided to pose some others ourselves: Is the gender bias present in research linked to the lack of women in STEM? Or is the lack of representation preventing young girls from choosing to pursue a career in research? Are both of those statements true? Are we trapped in an infinite loop that needs to be broken before we can even start scratching the glass ceiling? 
 
-# Why Hypatia – our manifesto
+## Why Hypatia – our manifesto
 
 **Hypatia of Alexandria (c. 355) was one of a kind.**
 

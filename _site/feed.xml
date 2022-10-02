@@ -5,8 +5,8 @@
     <description>Thoughts, Stories and Ideas on Science for Women</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 02 Oct 2022 19:01:57 +0100</pubDate>
-    <lastBuildDate>Sun, 02 Oct 2022 19:01:57 +0100</lastBuildDate>
+    <pubDate>Sun, 02 Oct 2022 20:11:03 +0100</pubDate>
+    <lastBuildDate>Sun, 02 Oct 2022 20:11:03 +0100</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
 
     
@@ -60,15 +60,14 @@
         
           <item>
             <title>About</title>
-            <description>&lt;p&gt;We are The Modern Hypatia, three unorthodox biomedical scientists with three very different stories to tell on the journey beyond academia.
+            <description>&lt;p&gt;We are &lt;strong&gt;The Modern Hypatia&lt;/strong&gt;, three unorthodox biomedical scientists with three very different stories to tell on the journey beyond academia.
 Even if we have chosen very different paths, there is something we still have in common: we are women in STEM.&lt;/p&gt;
 
-&lt;h1 id=&quot;a-bit-of-context&quot;&gt;A bit of context&lt;/h1&gt;
+&lt;h2 id=&quot;a-bit-of-context&quot;&gt;A bit of context&lt;/h2&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;The number of women in the STEM (science, technology, engineering and medicine) fields does not reach 30%.&lt;/p&gt;
-
-  &lt;p&gt;&lt;em&gt;UNESCO Institute for Statistics (2019)&lt;/em&gt;&lt;/p&gt;
+  &lt;p&gt;The number of women in the STEM (science, technology, engineering and medicine) fields does not reach 30%.&lt;br /&gt;
+UNESCO Institute for Statistics (2019)&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Female researchers publish less, are paid less and are bound to precarious contracts more often than their male counterparts. &lt;a href=&quot;https://dictionary.apa.org/gender-bias&quot;&gt;Gender bias&lt;/a&gt; is bound to affect women in every working environment – science is not an exemption.&lt;/p&gt;
@@ -79,7 +78,7 @@ Even if we have chosen very different paths, there is something we still have in
 
 &lt;p&gt;And we’ve decided to pose some others ourselves: Is the gender bias present in research linked to the lack of women in STEM? Or is the lack of representation preventing young girls from choosing to pursue a career in research? Are both of those statements true? Are we trapped in an infinite loop that needs to be broken before we can even start scratching the glass ceiling?&lt;/p&gt;
 
-&lt;h1 id=&quot;why-hypatia--our-manifesto&quot;&gt;Why Hypatia – our manifesto&lt;/h1&gt;
+&lt;h2 id=&quot;why-hypatia--our-manifesto&quot;&gt;Why Hypatia – our manifesto&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;Hypatia of Alexandria (c. 355) was one of a kind.&lt;/strong&gt;&lt;/p&gt;
 
@@ -92,8 +91,6 @@ Even if we have chosen very different paths, there is something we still have in
             <link>http://localhost:4000/about.html</link>
           </item>
         
-      
-    
       
     
       
