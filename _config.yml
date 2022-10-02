@@ -10,7 +10,7 @@ theme_version: 1.0.5
 # Site settings
 # Site settings
 title:              The Modern Hypatia
-logo:               # Logo image URL
+logo:               /images/logo.svg
 description:        Thoughts, Stories and Ideas on Science for Women
 baseurl:            '' # The subpath of your site, e.g. /blog
 url:                'https://themodernhypatia.com/' # The base hostname & protocol for your site

@@ -34,7 +34,7 @@
     }
 
     @include mq($from: desktop) {
-      max-height: quadruple($base-spacing-unit);
+      max-height: 200px;
     }
   }
 }
