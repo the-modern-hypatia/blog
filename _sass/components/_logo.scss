@@ -30,7 +30,7 @@
 
     @include mq($from: tablet) {
       margin: 0 auto;
-      max-height: triple($base-spacing-unit);
+      max-height: quadruple($base-spacing-unit);
     }
 
     @include mq($from: desktop) {

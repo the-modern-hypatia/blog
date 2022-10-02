@@ -8,10 +8,10 @@ body {
   font-family: $font-sans-serif;
   line-height: $line-height-base;
   background-color: $color-white;
-  border: quarter($base-spacing-unit) solid $bg-gray;
+  border: quarter($base-spacing-unit) solid $bg-light-gray;
 
   @include mq($from: tablet) {
-    border: half($base-spacing-unit) solid $bg-gray;
+    border: half($base-spacing-unit) solid $bg-light-gray;
   }
 
   -webkit-font-smoothing: antialiased;
