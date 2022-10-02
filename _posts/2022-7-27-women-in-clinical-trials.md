@@ -6,7 +6,6 @@ author: alicia
 tags: science-about-women
 image: '/images/posts/clinical_trials.jpg'
 ---
-Hi there!
 
 We can all agree that beginnings are challenging. And, considering how the scientific community and science itself have engaged with the existence of women until now, it can be tough to choose how or even where to start. So, after deep consideration and, who am I kidding, a lot of scrolling, I have decided to introduce myself with a piece that, I hope, will illustrate the grandiosity of this issue – **the inclusion of women in the testing of drugs.**
 
