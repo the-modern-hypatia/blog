@@ -25,7 +25,7 @@ It is a long journey we have covered together in just a few paragraphs, but isn�
 
 As I already said, it’s been a long journey, but sadly, there is still a long way to go. Even though now we know that some treatments have a distinct effect depending on gender, we don’t know for **how many** treatments that’s the case or, even if identified, **how** this difference applies. On top of that, it is important to stress that both documents published in 1993 and 2005 are **guidelines, not rules**. Therefore, their contents are mere suggestions. We still need to catch up with decades of lost data. And even if the new European regulations date from 2014, they only came into effect by October 2018. So, it will still take time until we can fully see its effects.
 
-I feel that the ultimate goal of this post is not to tella story, but to make you doubt. I want to prompt you to ask yourself questions about all those drugs you have been prescribed; the ones you can see behind the counter of pharmacies or even those you already have at home. I want your brain to be filled with interrogations. And hopefully, you can find the answer here to some of those.
+I feel that the ultimate goal of this post is not to tell a story, but to make you doubt. I want to prompt you to ask yourself questions about all those drugs you have been prescribed; the ones you can see behind the counter of pharmacies or even those you already have at home. I want your brain to be filled with interrogations. And hopefully, you can find the answer here to some of those.
 
 # Bibliography
 [Food and Drug Administration. General considerations for the clinical evaluation of drugs](https://babel.hathitrust.org/cgi/pt?id=umn.31951003051226s&view=1up&seq=1) (1977)
