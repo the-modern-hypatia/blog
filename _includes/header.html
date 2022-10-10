@@ -1,45 +1,67 @@
-<header class='c-header'>
-  <div class='o-grid'>
+<!-- begin header -->
+<header class="header">
+  <div class="container-big">
+    <div class="row">
+      <div class="header__inner col col-12">
 
-    <div class='o-grid__col o-grid__col--3-4-s o-grid__col--4-4-m'>
-      <div class='c-logo'>
-        {% if site.logo %}
-          <a href='{{ site.baseurl }}/'>
-            <img class='c-logo__img' height="250px" src='{{ site.logo }}' alt='{{ site.title }}'>
+        <div class="logo">
+          <a href="{{ site.baseurl }}/">
+            <svg class="smallogo">
+              <use xlink:href="/images/small-logo.svg#smallogo"></use>
+            </svg>
           </a>
-          <a class='c-logo__link' href='{{ site.baseurl }}/'>{{ site.title }}</a>
-        {% endif %}
-      </div>
-    </div>
-
-    <div class='o-grid__col o-grid__col--1-4-s o-grid__col--3-4-l o-grid__col--full'>
-      <div class='c-off-canvas-content js-off-canvas-content'>
-        <label class='js-off-canvas-toggle c-off-canvas-toggle c-off-canvas-toggle--close'>
-          <span class='c-off-canvas-toggle__icon'></span>
-        </label>
-
-        <div class='o-grid'>
-          <div class='o-grid__col o-grid__col--4-4-s o-grid__col--3-4-l o-grid__col--full'>
-            <nav class='c-nav-wrap'>
-              <ul class='c-nav o-plain-list'>
-                {% include navigation.html %}
-                <li class='c-nav__item'>
-                  <a class='toggle-search-button js-search-toggle' href='#' aria-label='Search'>
-                    <span class='c-nav__icon' data-icon='ei-search' data-size='s'></span>
-                  </a>
-                </li>
-              </ul>
-            </nav>
-          </div>
         </div>
+
+        <div class="hamburger">
+          <div></div>
+        </div>
+
+        <nav class="main-nav" aria-label="Main menu">
+          <div class="main-nav__box">
+            <ul class="nav__list list-reset">
+
+              {% for item in site.data.settings.menu__settings.menu__items %}
+              {% if item.submenu %}
+              <li class="nav__item dropdown">
+                <span class="nav__link dropdown-toggle">{{ item.title }} <i class="ion ion-ios-arrow-down arrow-down"></i></span>
+                <div class="dropdown-menu">
+                {% for submenu-item in item.submenu %}
+                  <a href="{{ submenu-item.url }}" class="nav__link{% if page.url == submenu-item.url %} active-link{% endif %}">{{submenu-item.title}}</a>
+                {% endfor %}
+                </div>
+              </li>
+              {% else %}
+              <li class="nav__item">
+                <a href="{{ item.url | relative_url }}" class="nav__link{% if page.url == item.url %} active-link{% endif %}">{{ item.title }}</a>
+              </li>
+              {% endif %}
+              {% endfor %}
+
+            </ul>
+          </div>
+
+          <div class="nav-button">
+            {% if site.data.settings.color_scheme == "auto" %}
+            <div class="toggle-theme">
+              <div class="toggle-moon" title="Enable dark mode" aria-hidden="true"><i class="ion ion-ios-moon"></i></div>
+              <div class="toggle-sun" title="Enable light mode" aria-hidden="true"><i class="ion ion-ios-sunny"></i></div>
+            </div>
+            {% elsif site.data.settings.color_scheme == "light" or site.data.settings.color_scheme == "dark" %}
+            {% else %}
+            <div class="toggle-theme">
+              <div class="toggle-moon" title="Enable dark mode"><i class="ion ion-ios-moon" aria-hidden="true"></i></div>
+              <div class="toggle-sun" title="Enable light mode"><i class="ion ion-ios-sunny" aria-hidden="true"></i></div>
+            </div>
+            {% endif %}
+            <i class="nav__icon icon__search ion ion-md-search"></i>
+          </div>
+        </nav>
+
+
       </div>
-
-      <label class='js-off-canvas-toggle c-off-canvas-toggle' aria-label='Toggle navigation'>
-        <span class='c-off-canvas-toggle__icon'></span>
-      </label>
     </div>
-
   </div>
 </header>
+<!-- end header -->
 
-{% include search-form.html %}
+{% include search.html %}

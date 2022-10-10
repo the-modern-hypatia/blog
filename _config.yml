@@ -1,72 +1,57 @@
-# Welcome to Nubia Jekyll Theme!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+#-------------------------------
+# General Site Settings
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://themodernhypatia.com" # the base hostname & protocol for your site, e.g. http://example.com
 
-theme_version: 1.0.5
 
-# Site settings
-# Site settings
-title:              The Modern Hypatia
-logo:               /images/logo.svg
-description:        Thoughts, Stories and Ideas on Science for Women
-baseurl:            '' # The subpath of your site, e.g. /blog
-url:                'https://themodernhypatia.com/' # The base hostname & protocol for your site
-twitter:            
-facebook:           
-instagram:          
-
-markdown:  kramdown
-permalink: pretty
-paginate:  11
-sass:
-  style: compressed
-
+#-------------------------------
+# Build Settings
+markdown: kramdown
+permalink: /:title
 plugins:
   - jekyll-paginate
-  - jekyll/tagging
+  - jekyll-sitemap
 
-include:
-  - _pages
-
-exclude:
-  - vendor
-  - _pages/style-guide.md
-  - Gemfile
-  - Gemfile.lock
-  - _pages/topics.md
-
-# Tags
-tag_page_dir:         topic
-tag_page_layout:      tag_page
-tag_permalink_style:  pretty
+paginate: 7
+paginate_path: "/blog/page/:num"
 
 
+#-------------------------------
+# Collections
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /blog/:name
+  authors:
+    output: true
+    permalink: /author/:name
 
-# Pages path
+# Pages Path
 defaults:
   - scope:
-      path: '_pages'
+      path: ""
     values:
-      permalink: /:basename:output_ext
+      layout: "default"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
 
-# Authors
-authors:
-  xenia:
-    name: Xènia Pérez Sitjà
-    bio: Renegade scientist, artist and leader     
-    gravatar: https://en.gravatar.com/xeniapsitja
-    email:    
-    website: 
-    github:   
-    twitter:
-  alicia:
-    name: Alicia Molinero Pérez
-    bio: Neuroscientist and writer
-    gravatar:
-    email:
-    website:
-    github:
-    twitter:
+
+sass:
+  sass_dir: _sass
+  style: compressed

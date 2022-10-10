@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>The Modern Hypatia</title>
-    <description>Thoughts, Stories and Ideas on Science for Women</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 03 Oct 2022 09:28:13 +0100</pubDate>
-    <lastBuildDate>Mon, 03 Oct 2022 09:28:13 +0100</lastBuildDate>
-    <generator>Jekyll v4.2.2</generator>
-
-    
-      <item>
-        <title>The strange case of women in clinical trials</title>
-        <description>&lt;p&gt;We can all agree that beginnings are challenging. And, considering how the scientific community and science itself have engaged with the existence of women until now, it can be tough to choose how or even where to start. So, after deep consideration and, who am I kidding, a lot of scrolling, I have decided to introduce myself with a piece that, I hope, will illustrate the grandiosity of this issue – &lt;strong&gt;the inclusion of women in the testing of drugs.&lt;/strong&gt;&lt;/p&gt;
+    <channel>
+        <title>The Modern Hypatia</title>
+        <description>A blog on thoughts, Stories and Ideas on Science for Women</description>
+        <link>http://localhost:4000/</link>
+        <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Mon, 10 Oct 2022 20:04:28 +0100</pubDate>
+        <lastBuildDate>Mon, 10 Oct 2022 20:04:28 +0100</lastBuildDate>
+        <generator>Jekyll v4.2.2</generator>
+        
+            <item>
+                <title>The strange case of women in clinical trials</title>
+                <description>&lt;p&gt;We can all agree that beginnings are challenging. And, considering how the scientific community and science itself have engaged with the existence of women until now, it can be tough to choose how or even where to start. So, after deep consideration and, who am I kidding, a lot of scrolling, I have decided to introduce myself with a piece that, I hope, will illustrate the grandiosity of this issue – &lt;strong&gt;the inclusion of women in the testing of drugs.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;To reach the market, medicinal products must undergo a series of tests to prove they do what they are supposed to (that is, their level of &lt;strong&gt;efficacy&lt;/strong&gt;), while causing no harm to whoever takes them (meaning their &lt;strong&gt;safety&lt;/strong&gt;). Before these products are tested on people, clinical trials are the last step in this terrible minefield, that is putting a drug on the market, when finally, these products are tested on people. Thanks to this pipeline, we should be able to take any treatment with the confidence that they are as effective and safe as their manufacturer assures them to be– but can we really?&lt;/p&gt;
 
@@ -43,60 +42,14 @@
 
 &lt;p&gt;&lt;a href=&quot;https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/clinical-trials/considerations-inclusion-women-clinical-trials-analysis-data-sex-differences.html&quot;&gt;Health Canada: Considerations for inclusion of women in clinical trials and analysis of data by sex&lt;/a&gt; (2013)&lt;/p&gt;
 </description>
-        <pubDate>27 Jul 2022</pubDate>
-        <link>http://localhost:4000/2022/07/27/women-in-clinical-trials/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/07/27/women-in-clinical-trials/</guid>
-      </item>
-    
-
-    
-      
+                <pubDate>Wed, 27 Jul 2022 15:01:35 +0100</pubDate>
+                <link>http://localhost:4000/blog/2022-7-27-women-in-clinical-trials</link>
+                <guid isPermaLink="true">http://localhost:4000/blog/2022-7-27-women-in-clinical-trials</guid>
+                
+                <category>science about women</category>
+                
+                
+            </item>
         
-      
-    
-      
-        
-          <item>
-            <title>About</title>
-            <description>&lt;p&gt;We are &lt;strong&gt;The Modern Hypatia&lt;/strong&gt;, three unorthodox biomedical scientists with three very different stories to tell on the journey beyond academia.
-Even if we have chosen very different paths, there is something we still have in common: we are women in STEM.&lt;/p&gt;
-
-&lt;h2 id=&quot;a-bit-of-context&quot;&gt;A bit of context&lt;/h2&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The number of women in the STEM (science, technology, engineering and medicine) fields does not reach 30%.&lt;br /&gt;
-UNESCO Institute for Statistics (2019)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Female researchers publish less, are paid less and are bound to precarious contracts more often than their male counterparts. &lt;a href=&quot;https://dictionary.apa.org/gender-bias&quot;&gt;Gender bias&lt;/a&gt; is bound to affect women in every working environment – science is not an exemption.&lt;/p&gt;
-
-&lt;p&gt;If the previous data did not come as a surprise, this may: research results themselves are affected by gender bias. All-male study participants, male-focused interpretation, or poor attention to women’s health issues are only some examples.&lt;/p&gt;
-
-&lt;p&gt;How does gender bias affect evidence-based medicine? Does our society’s embedded sexism alter epidemiological findings? Are females constantly under or misdiagnosed due to diagnostic systems created to fit the male physiology?&lt;/p&gt;
-
-&lt;p&gt;And we’ve decided to pose some others ourselves: Is the gender bias present in research linked to the lack of women in STEM? Or is the lack of representation preventing young girls from choosing to pursue a career in research? Are both of those statements true? Are we trapped in an infinite loop that needs to be broken before we can even start scratching the glass ceiling?&lt;/p&gt;
-
-&lt;h2 id=&quot;why-hypatia--our-manifesto&quot;&gt;Why Hypatia – our manifesto&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Hypatia of Alexandria (c. 355) was one of a kind.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Philosopher, mathematician, astronomer and educator, she was the first woman to leave a perennial impression in the history of science.&lt;/p&gt;
-
-&lt;p&gt;We chose her name to remind us, women, that we are capable of greatness. We are The Modern Hypatia, and we are here to voice those who are already there, to help them illuminate the path of future generations of female researchers and show us how powerful we are when girded with knowledge.&lt;/p&gt;
-
-&lt;p&gt;We are here to shed some light on the void, to ensure that, even if there is still a big empty space where all the research about women’s health should be, this void will eventually be filled.&lt;/p&gt;
-</description>
-            <link>http://localhost:4000/about.html</link>
-          </item>
-        
-      
-    
-      
-    
-      
-    
-      
-    
-
-  </channel>
+    </channel>
 </rss>

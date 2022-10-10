@@ -2,14 +2,14 @@
 layout: default
 ---
 
-<div class='o-wrapper'>
-  <div class='o-grid js-grid'>
-    {% for post in paginator.posts %}
-      {% include post-card.html %}
-    {% endfor %}
-  </div>
+{% include section-hero.html %}
 
-  <div class='o-grid'>
-    {% include pagination.html %}
-  </div>
-</div>
+{% include section-featured-posts.html %}
+
+{% include section-blog.html %}
+
+{% include section-videos.html %}
+
+{% include section-tag.html %}
+
+{% include section-author.html %}

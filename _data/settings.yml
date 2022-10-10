@@ -1,0 +1,127 @@
+#-------------------------------
+# Site Settings
+title: The Modern Hypatia
+logo: /images/logo.svg
+nav-logo: favicon.ico
+description: A blog on thoughts, Stories and Ideas on Science for Women
+color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+
+#-------------------------------
+# Navigation Settings
+menu__settings:
+  menu__items:
+    - title: 'Home'
+      url: '/'
+    #- title: 'Topics'
+      #url: '/tags/'
+    # - title: 'Blogs'
+    #  url: '/blog/'
+    - title: 'Authors'
+      url: '/authors/'
+    - url: '/about/'
+      title: 'About'
+    #- url: '/contact/'
+      #title: 'Contact'
+
+
+#-------------------------------
+# Hero Settings
+hero:
+  enable: true
+  hero__title: The Modern Hypatia
+  hero__description: Thoughts, Stories and Ideas on Science for Women
+  hero__image: 
+
+
+#-------------------------------
+# Author Global Settings
+# author:
+  #author__name: 
+  #author__bio: 
+  #author__avatar: 
+
+
+
+#-------------------------------
+# Blog Section Settings
+blog__settings:
+  enable: true
+  blog__title: Latest Posts
+  blog__description:
+
+
+#-------------------------------
+# Videos Section Settings
+videos__settings:
+  enable: false
+  videos__title: Latest Videos
+  videos__description:
+
+
+#-------------------------------
+# Tag Section Settings
+tag__settings:
+  enable: false
+  tag:  # To display the tag section, specify your favorite tag.
+
+
+#-------------------------------
+# Author Section Settings
+author__section:
+  enable: false
+  author__section__title: 
+  aurhor__section__button__text: 
+  aurhor__section__button__link: 
+  author__section__big__image:
+  author__section__small__image:
+
+
+#-------------------------------
+# Newsletter Settings
+mailchimp__settings:
+  enable: false
+  mailchimp__title: 
+  mailchimp__description: 
+  mailchimp__identifier: 
+  mailchimp__input__text: 
+  mailchimp__button__text: 
+  mailchimp__background__image: 
+
+
+#-------------------------------
+# Footer Settings
+footer__description: A blog on Thoughts, Stories and Ideas on Science for and about Women
+
+
+# Social Links
+social:
+- {icon: "twitter", link: "https://twitter.com"}
+- {icon: "facebook", link: "https://facebook.com"}
+- {icon: "codepen", link: "https://codepen.io"}
+- {icon: "pinterest", link: "https://pinterest.com"}
+- {icon: "vimeo", link: "https://vimeo.com"}
+
+# Example of adding a new link to the footer - {icon: "instagram", link: "https://instagram.com"}
+# Other icons can be found at https://ionicons.com/v4/
+
+
+# Footer Navigation
+footer__menu__settings:
+  menu__items:
+    - title: 'Home'
+      url: '/'
+    - title: 'Blog'
+      url: '/blog/'
+    - title: 'About'
+      url: '/about/'
+    - title: 'Contact'
+      url: '/contact/'
+
+# Contact Settings
+contact:
+  email: editorial@themodernhypatia.com # Add your form_id
+  description: # Add a description of your form
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your GA Tracking Id
