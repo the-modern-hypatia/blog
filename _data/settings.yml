@@ -90,16 +90,14 @@ mailchimp__settings:
 
 #-------------------------------
 # Footer Settings
-footer__description: A blog on Thoughts, Stories and Ideas on Science for and about Women
+footer__description: A Blog on Thoughts, Stories and Ideas on Science for and about Women
 
 
 # Social Links
 social:
-- {icon: "twitter", link: "https://twitter.com"}
-- {icon: "facebook", link: "https://facebook.com"}
-- {icon: "codepen", link: "https://codepen.io"}
-- {icon: "pinterest", link: "https://pinterest.com"}
-- {icon: "vimeo", link: "https://vimeo.com"}
+- #{icon: "twitter", link: "https://twitter.com"}
+- #{icon: "facebook", link: "https://facebook.com"}
+- #{icon: "codepen", link: "https://codepen.io"}
 
 # Example of adding a new link to the footer - {icon: "instagram", link: "https://instagram.com"}
 # Other icons can be found at https://ionicons.com/v4/
