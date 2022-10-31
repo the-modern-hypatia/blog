@@ -1,6 +1,6 @@
 ---
 username: bela
-name: Isabela Sibuet Ruíz
+name: Isabela Sibuet Ruiz
 image: ''
 cover:
 location: Spain
