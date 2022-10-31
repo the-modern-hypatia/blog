@@ -1,7 +1,7 @@
 ---
 username: bela
 name: Isabela Sibuet Ruiz
-image: ''
+image: 'https://avatars.githubusercontent.com/belsibu'
 cover:
 location: Spain
 # website: 
