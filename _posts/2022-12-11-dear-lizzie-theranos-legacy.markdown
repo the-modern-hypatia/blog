@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dear Lizzie: Theranos' legacy
+title: Dear Lizzie - Theranos' legacy
 #description:
 date: 2022-12-11
 author: ali
@@ -31,14 +31,14 @@ In any case, the damage has been done. We cannot change what Elizabeth Holmes di
 **Because yes, women, too, can be masterminds.**
 
 
-## One last rec
+# One last rec
 
 Ultimately, Holmes’ actions resulted in some very rich people becoming less rich, some regular janes and joes losing all their life savings; and most importantly, some patients, who trusted the diagnostic capacity of Theranos’ equipment, having misguided ideas about their health condition, causing in some cases great distress. I wrote this post intending to convey **my impressions** regarding what might be the conclusion, at least for now, of this story of greed for medical glory and, for the sake of brevity, I didn’t engage on the specifics that led to Holmes’ accusation and eventual sentence.
 
 For a better account of the facts, I recommend any reader wishing to draw their own conclusions to listen to [The Dropout](https://podcasts.apple.com/us/podcast/the-dropout/id1449500734), the podcast that kept me up to date while this whole debacle was taking place.
 
 
-## Bibliography
+# Bibliography
 
 [The Guardian. Theranos founder Elizabeth Holmes sentenced to more than 11 years for defrauding investors](https://www.theguardian.com/us-news/2022/nov/18/elizabeth-holmes-theranos-trial-sentencing) (San Jose, California, 18 Nov 2022)
 
