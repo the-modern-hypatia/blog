@@ -32,26 +32,17 @@ In any case, the damage has been done. We cannot change what Elizabeth Holmes di
 
 
 # One last rec
-
 Ultimately, Holmes’ actions resulted in some very rich people becoming less rich, some regular janes and joes losing all their life savings; and most importantly, some patients, who trusted the diagnostic capacity of Theranos’ equipment, having misguided ideas about their health condition, causing in some cases great distress. I wrote this post intending to convey **my impressions** regarding what might be the conclusion, at least for now, of this story of greed for medical glory and, for the sake of brevity, I didn’t engage on the specifics that led to Holmes’ accusation and eventual sentence.
 
 For a better account of the facts, I recommend any reader wishing to draw their own conclusions to listen to [The Dropout](https://podcasts.apple.com/us/podcast/the-dropout/id1449500734), the podcast that kept me up to date while this whole debacle was taking place.
 
 
 # Bibliography
-
 [The Guardian. Theranos founder Elizabeth Holmes sentenced to more than 11 years for defrauding investors](https://www.theguardian.com/us-news/2022/nov/18/elizabeth-holmes-theranos-trial-sentencing) (San Jose, California, 18 Nov 2022)
-
 [Forbes. Theranos presents data on new blood test machine remains mum on previous technology](https://www.forbes.com/sites/matthewherper/2016/08/01/theranos-presents-data-on-new-blood-test-machine-remains-mum-on-previous-technology/?sh=3c016e586a0b) (2016)
-
 [Ars Technica. 'Uh, no' – Pfizer scientist denies Holmes’ claim that Pfizer endorsed Theranos tech](https://arstechnica.com/tech-policy/2021/10/uh-no-pfizer-scientist-denies-holmes-claim-that-pfizer-endorsed-theranos-tech/) (2021)
-
 [The New York Times. They Still Live in the Shadow of Theranos’ Elizabeth Holmes](https://www.nytimes.com/2021/08/24/technology/theranos-elizabeth-holmes.html) (2021)
-
 [Forbes. From $4.5 Billion To Nothing: Forbes Revises Estimated Net Worth of Theranos Founder Elizabeth Holmes](https://www.forbes.com/sites/matthewherper/2016/06/01/from-4-5-billion-to-nothing-forbes-revises-estimated-net-worth-of-theranos-founder-elizabeth-holmes/?sh=3f25672b3633) (2016)
-
 [Forbes. Inside MacKenzie Scott’s 'No Strings Attached' Philanthropy: 'I Was In Tears'](https://www.forbes.com/sites/lisettevoytko/2021/07/07/inside-mackenzie-scotts-no-strings-attached-philanthropy-i-was-in-tears/?sh=7005bade5bb6) (2021)
-
 [CNN Business. Pricilla Chan is trying to change the fate of an entire generation](https://www.youtube.com/watch?v=tbM2MAepv0M&ab_channel=CNNBusiness) (2018)
-
 [Bloomberg Law. Why Women Feel Relief That Elizabeth Holmes Got Convicted](https://news.bloomberglaw.com/us-law-week/why-women-feel-relief-that-elizabeth-holmes-got-convicted) (2022)
