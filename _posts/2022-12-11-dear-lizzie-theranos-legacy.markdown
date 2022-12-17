@@ -4,7 +4,7 @@ title: Dear Lizzie - Theranos' legacy
 #description:
 date: 2022-12-11
 author: ali
-image: '/images/posts/drop-of-blood.webp'
+image: '/images/posts/drop-of-blood-lighter.webp'
 #video_embed:
 tags: [women in science]
 #tags_color: ''
