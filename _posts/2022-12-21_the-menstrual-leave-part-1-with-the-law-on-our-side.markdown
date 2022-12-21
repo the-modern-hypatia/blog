@@ -33,7 +33,7 @@ The last country to make our list is **Zambia**, which welcomed [Section 54(2)](
 
 As early as the 80s, some studies revealed that American and Finnish teenagers commonly skipped school due to cramps. Bearing the controversial question: Would working women also choose to stay home **if their livelihood wasn’t dependent on it?** The answer is… no, but for all the wrong reasons since their livelihood is still reliant on it. As we have seen, laws might exist. Still, their application is flimsy at best and hijacks female employees' financial autonomy (due to salary cuts) and career stability (caused by coworkers' and bosses' retaliation). **As if we taught the starving man to fish but threw rocks at him every time he approached the pond. Moreover, not a single one mentions other menstruating individuals, like transmen.**  
 
-Spain has opted to distinguish its brand-new law from the previous ones by including medical terminology. Is this the answer, though? **How should a menstrual leave be, to actually be fair? **
+Spain has opted to distinguish its brand-new law from the previous ones by including medical terminology. Is this the answer, though? **How should a menstrual leave be, to actually be fair?**
 
 **Stay tuned for part 2!**
 
