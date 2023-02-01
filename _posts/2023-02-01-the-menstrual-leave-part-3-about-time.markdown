@@ -10,7 +10,7 @@ author: ali
 
 image: '/images/posts/resting.webp'
 
-tags: [science policy about women]
+tags: [policy about women]
 
 --- 
 
